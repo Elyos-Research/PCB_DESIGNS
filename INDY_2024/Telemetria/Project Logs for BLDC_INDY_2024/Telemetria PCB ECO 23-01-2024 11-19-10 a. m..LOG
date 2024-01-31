@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=GND Pin=U?-19
-Added Member To Class: ClassName=Telemetria Member=Component GPS? Adafruit GPS Breakout
-Added Member To Class: ClassName=Telemetria Member=Component U1 Bno055_Adafruit
-Added Member To Class: ClassName=Telemetria Member=Component U? STM32F103C8T6
