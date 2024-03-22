@@ -1,0 +1,12 @@
+Added Component: Designator=H1(Hole)
+Added Component: Designator=H2(Hole)
+Added Component: Designator=H3(Hole)
+Added Component: Designator=H4(Hole)
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Member To Class: ClassName=Telemetria Member=Component H1 Hole
+Added Member To Class: ClassName=Telemetria Member=Component H2 Hole
+Added Member To Class: ClassName=Telemetria Member=Component H3 Hole
+Added Member To Class: ClassName=Telemetria Member=Component H4 Hole

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Telemetria2.PcbDoc]
+   Generated File[Telemetria2.TXT]
+   Generated File[Telemetria2.LDP]
+   Generated File[Telemetria2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 02:08:15 p. m. On 08/03/2024

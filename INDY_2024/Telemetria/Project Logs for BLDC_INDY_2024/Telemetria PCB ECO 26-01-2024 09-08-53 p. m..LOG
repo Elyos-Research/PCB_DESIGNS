@@ -1,0 +1,53 @@
+Added Component: Designator=GPS1(Adafruit GPS breakout)
+Added Component: Designator=LA1(Lora Adapter)
+Added Component: Designator=U1(Bno055_Adafruit)
+Added Component: Designator=U1(Stm32 BluePill)
+Added Pin To Net: NetName=3V3 Pin=LA1-4
+Added Pin To Net: NetName=3V3 Pin=U1-20
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=GPS1-8
+Added Pin To Net: NetName=5V Pin=U1-18
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=GPS1-7
+Added Pin To Net: NetName=GND Pin=LA1-9
+Added Pin To Net: NetName=GND Pin=LA1-16
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-40
+Added Net: Name=GND
+Added Pin To Net: NetName=NetGPS1_5 Pin=GPS1-5
+Added Pin To Net: NetName=NetGPS1_5 Pin=U1-28
+Added Net: Name=NetGPS1_5
+Added Pin To Net: NetName=NetGPS1_6 Pin=GPS1-6
+Added Pin To Net: NetName=NetGPS1_6 Pin=U1-27
+Added Net: Name=NetGPS1_6
+Added Pin To Net: NetName=NetLA1_3 Pin=LA1-3
+Added Net: Name=NetLA1_3
+Added Pin To Net: NetName=NetLA1_10 Pin=LA1-10
+Added Pin To Net: NetName=NetLA1_10 Pin=U1-12
+Added Net: Name=NetLA1_10
+Added Pin To Net: NetName=NetLA1_11 Pin=LA1-11
+Added Pin To Net: NetName=NetLA1_11 Pin=U1-13
+Added Net: Name=NetLA1_11
+Added Pin To Net: NetName=NetLA1_12 Pin=LA1-12
+Added Pin To Net: NetName=NetLA1_12 Pin=U1-11
+Added Net: Name=NetLA1_12
+Added Pin To Net: NetName=NetLA1_13 Pin=LA1-13
+Added Pin To Net: NetName=NetLA1_13 Pin=U1-10
+Added Net: Name=NetLA1_13
+Added Pin To Net: NetName=NetLA1_14 Pin=LA1-14
+Added Net: Name=NetLA1_14
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=U1-15
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_5 Pin=U1-14
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Net: Name=NetU1_9
+Added Member To Class: ClassName=Telemetria Member=Component GPS1 Adafruit GPS Breakout
+Added Member To Class: ClassName=Telemetria Member=Component LA1 RFM95W Adapter
+Added Member To Class: ClassName=Telemetria Member=Component U1 Bno055_Adafruit
+Added Member To Class: ClassName=Telemetria Member=Component U1 STM32F103C8T6

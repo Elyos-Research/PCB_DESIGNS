@@ -1,0 +1,9 @@
+Added Component: Designator=P1(HIGH_POWER_PAD)
+Added Component: Designator=P2(HIGH_POWER_PAD)
+Added Component: Designator=P3(HIGH_POWER_PAD)
+Added Pin To Net: NetName=VBattery Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Member To Class: ClassName=Telemetria Member=Component P1 High power pad
+Added Member To Class: ClassName=Telemetria Member=Component P2 High power pad
+Added Member To Class: ClassName=Telemetria Member=Component P3 High power pad
