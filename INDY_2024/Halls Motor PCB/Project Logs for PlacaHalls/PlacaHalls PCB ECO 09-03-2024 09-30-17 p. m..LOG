@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetH2_3 Pin=P2-22
+Add Pin To Net: Unknown Pin: Pin P2-1
+Added Member To Class: ClassName=PlacaHalls Member=Component H1 HALL
+Added Member To Class: ClassName=PlacaHalls Member=Component PGND PAD

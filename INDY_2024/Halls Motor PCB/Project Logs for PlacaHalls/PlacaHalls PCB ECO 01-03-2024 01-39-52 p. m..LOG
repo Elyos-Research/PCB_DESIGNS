@@ -1,0 +1,9 @@
+Added Component: Designator=P4(PAD)
+Added Component: Designator=P5(PAD)
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P4-1
+Add Pin To Net: Unknown Pin: Pin P5-1
+Added Member To Class: ClassName=PlacaHalls Member=Component P4 PAD
+Added Member To Class: ClassName=PlacaHalls Member=Component P5 PAD
